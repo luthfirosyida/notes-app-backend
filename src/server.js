@@ -20,24 +20,3 @@ const init = async () => {
     console.log(`Server berjalan pada ${server.info.uri}`);
 };
 
-init();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-console.log('Kita akan belajar membuat RESTFUL API');
